@@ -1,0 +1,101 @@
+,Name,Artist,Duration(s),Popularity,Danceability,Energy,Loudness,Speechiness,Tempo,Valence
+0,Ransom,Lil Tecca,131,2,0.745,0.642,-6.257,0.287,179.974,0.226
+1,Lalala,Y2K,161,81,0.843,0.391,-7.899,0.0845,129.972,0.496
+2,Money In The Grave (Drake ft. Rick Ross),Drake,205,81,0.831,0.502,-4.045,0.046,100.541,0.101
+3,The London (feat. J. Cole & Travis Scott),Young Thug,200,75,0.784,0.517,-8.981,0.209,97.991,0.206
+4,Bad Bad Bad (feat. Lil Baby),Young Thug,149,72,0.974,0.596,-8.888,0.184,111.959,0.892
+5,"Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",Dreamville,218,71,0.642,0.647,-6.312,0.428,120.749,0.664
+6,Babushka Boi,A$AP Rocky,187,72,0.897,0.743,-5.446,0.222,134.979,0.905
+7,Hot (feat. Gunna),Young Thug,193,75,0.855,0.651,-8.044,0.235,111.997,0.559
+8,Bezerk (feat. A$AP Ferg),Big Sean,151,69,0.684,0.687,-4.673,0.2,184.026,0.265
+9,Did It Again,Lil Tecca,116,8,0.699,0.575,-9.922,0.159,148.767,0.234
+10,Hallowed Be Thy Name - 2015 Remaster,Iron Maiden,431,65,0.313,0.882,-6.215,0.0355,103.981,0.3
+11,Roses,SAINt JHN,174,0,0.782,0.5,-6.473,0.0611,102.001,0.281
+12,Top Speed,Nbhd Nick,136,55,0.818,0.694,-5.691,0.144,130.03,0.419
+13,USA,Dubioza kolektiv,232,0,0.892,0.639,-4.297,0.0495,140.002,0.944
+14,Santeria,Sublime,183,0,0.673,0.772,-5.246,0.0427,90.356,0.585
+15,Don't Speak,No Doubt,264,67,0.52,0.709,-7.125,0.0352,76.039,0.536
+16,Dream On,Various Artists,268,44,0.313,0.53,-9.715,0.0306,156.07,0.264
+17,Future World,Helloween,244,52,0.472,0.936,-6.123,0.064,97.934,0.556
+18,Halloween,Helloween,799,47,0.205,0.956,-6.37,0.142,149.091,0.186
+19,Smoke On The Water - Remastered 2012,Deep Purple,341,74,0.598,0.676,-9.211,0.0279,114.169,0.805
+20,Cum On Feel The Noize,Various Artists,278,13,0.516,0.926,-5.543,0.0583,144.993,0.685
+21,Wishmaster,Van Canto,263,34,0.448,0.935,-6.339,0.0486,174.028,0.595
+22,Symphony Of Destruction,Megadeth,247,71,0.61,0.891,-5.452,0.0587,139.903,0.51
+23,Fear of the Dark - 2015 Remaster,Iron Maiden,438,70,0.308,0.866,-5.671,0.059,109.825,0.227
+24,Yeni Bir Gün Doğdu Merhaba,Barış Manço,124,34,0.608,0.562,-10.225,0.122,80.339,0.759
+25,"Paint It, Black",The Rolling Stones,202,78,0.464,0.795,-9.267,0.0926,158.691,0.612
+26,Lord Pretty Flacko Jodye 2 (LPFJ2),A$AP Rocky,127,67,0.485,0.72,-5.991,0.127,207.982,0.0471
+27,Earthquake (feat. Bok Nero),QUIX,248,38,0.49,0.931,-3.31,0.128,149.869,0.201
+28,"You Gon’ Learn (feat. Royce Da 5'9"" & White Gold)",Eminem,235,70,0.68,0.82,-4.197,0.151,140.033,0.243
+29,Darkness,Eminem,337,69,0.671,0.623,-7.161,0.308,75.055,0.195
+30,Panini,Lil Nas X,115,75,0.703,0.594,-6.146,0.0752,153.848,0.475
+31,HIGHEST IN THE ROOM,Travis Scott,176,88,0.598,0.427,-8.764,0.0317,76.469,0.0605
+32,APESHIT,The Carters,265,66,0.706,0.785,-6.475,0.271,160.033,0.377
+33,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,189,80,0.581,0.662,-5.239,0.303,93.023,0.434
+34,KOD,J. Cole,191,70,0.823,0.783,-6.274,0.154,141.882,0.199
+35,She Cheated Again,Dax,167,65,0.651,0.569,-10.156,0.324,96.795,0.36
+36,MIDDLE CHILD,J. Cole,214,82,0.837,0.364,-11.713,0.276,123.984,0.463
+37,Work Out,J. Cole,235,79,0.831,0.427,-6.903,0.106,93.004,0.216
+38,Give No Fxk,Migos,224,65,0.904,0.627,-5.608,0.222,145.976,0.236
+39,Around - Solomun Vox,Defected,419,0,0.867,0.345,-11.042,0.0768,115.0,0.259
+40,Dr. Stein,Helloween,304,49,0.429,0.86,-7.815,0.0665,148.987,0.56
+41,Master Of Puppets,Metallica,515,73,0.543,0.836,-9.11,0.0353,105.173,0.56
+42,Way Up,YG Rob,162,62,0.897,0.413,-13.63,0.122,95.02,0.369
+43,Marsh,Eminem,201,66,0.871,0.493,-6.356,0.205,144.989,0.0495
+44,Walls Could Talk,Halsey,102,72,0.626,0.423,-6.035,0.0513,95.162,0.571
+45,Never Love Again,Eminem,178,65,0.747,0.899,-5.125,0.246,92.029,0.581
+46,Holy Diver,Dio,341,66,0.473,0.783,-10.671,0.0869,91.976,0.124
+47,I Wanna Be Somebody,W.A.S.P.,224,60,0.285,0.825,-7.049,0.0466,164.611,0.516
+48,2 Floors,O a k $,154,6,0.766,0.488,-9.593,0.0468,138.1,0.438
+49,Schizophrenia,8lake,103,6,0.928,0.481,-9.748,0.177,139.017,0.335
+50,We Want Change,Hi-Rez,206,13,0.623,0.645,-7.45,0.145,137.633,0.441
+51,Guns Blazing,MC-X,141,4,0.918,0.735,-9.871,0.331,108.988,0.587
+52,I Ain't Left,Aja,204,8,0.934,0.378,-11.144,0.66,134.113,0.31
+53,History,88rising,207,0,0.554,0.589,-8.163,0.231,74.982,0.414
+54,How Did I Get Here (feat. J. Cole),Offset,277,58,0.883,0.544,-7.92,0.233,129.993,0.114
+55,Aries (YuGo) (feat. Pharrell & Station Wagon P),Mike WiLL Made-It,272,55,0.853,0.635,-3.82,0.0405,141.982,0.174
+56,House of the Rising Sun,The Animals,270,74,0.316,0.484,-9.11,0.0308,117.363,0.299
+57,Set My Body Free,The White Buffalo,135,30,0.673,0.58,-10.105,0.025,96.038,0.669
+58,The Whistler,The White Buffalo,201,40,0.347,0.349,-9.42,0.0327,143.131,0.268
+59,Bohemian Rhapsody - From Sons of Anarchy,The Forest Rangers,403,27,0.449,0.451,-8.156,0.0319,135.761,0.127
+60,Boulevard of Broken Dreams,Green Day,261,72,0.49,0.679,-3.68,0.0309,167.046,0.506
+61,Gasoline,Halsey,200,0,0.732,0.605,-7.307,0.0401,120.013,0.26
+62,Isis (feat. Logic),Joyner Lucas,237,73,0.884,0.936,-3.931,0.167,120.004,0.758
+63,The War (feat. Young Thug),Joyner Lucas,216,63,0.808,0.377,-10.098,0.0961,126.096,0.308
+64,I Love,Joyner Lucas,210,53,0.626,0.649,-6.609,0.0804,150.017,0.538
+65,Devil's Work,Joyner Lucas,285,58,0.575,0.746,-5.204,0.324,96.113,0.235
+66,Lotto,Joyner Lucas,230,58,0.952,0.722,-5.459,0.19,130.011,0.759
+67,Gold Mine,Joyner Lucas,190,53,0.939,0.397,-7.508,0.497,123.967,0.092
+68,Finally (feat. Chris Brown),Joyner Lucas,216,59,0.796,0.549,-6.677,0.102,95.942,0.403
+69,10 Bands (feat. Timbaland),Joyner Lucas,215,57,0.879,0.875,-5.298,0.0685,130.011,0.784
+70,ADHD,Joyner Lucas,206,70,0.563,0.78,-6.663,0.0782,83.913,0.317
+71,VALENTINO,24kGoldn,179,79,0.747,0.717,-4.841,0.179,150.965,0.523
+72,Picasso,Hopsin,198,61,0.606,0.795,-6.619,0.426,165.212,0.608
+73,A Drinking Song,Helldorado,195,53,0.243,0.728,-6.282,0.0365,162.593,0.71
+74,GOOBA,6ix9ine,132,79,0.611,0.688,-5.688,0.341,178.462,0.393
+75,FLIP THE SWITCH (feat. Drake),Quavo,156,68,0.853,0.637,-5.924,0.331,86.048,0.496
+76,Space Cadet (feat. Gunna),Metro Boomin,203,82,0.901,0.464,-9.789,0.0645,109.004,0.638
+77,Off-White (feat. Lil Keed),Lil Gotit,218,52,0.91,0.442,-8.876,0.183,116.12,0.261
+78,Just Sayin,Lil Gotit,132,32,0.805,0.448,-10.738,0.155,138.979,0.155
+79,"Camelot (feat. Yo Gotti, BlocBoy JB & Moneybagg Yo) - Remix",NLE Choppa,199,59,0.79,0.88,-1.983,0.376,175.013,0.857
+80,From The D To The A (feat. Lil Yachty),Tee Grizzley,159,71,0.851,0.625,-5.417,0.303,99.061,0.668
+81,Lust,Lil Skies,156,75,0.718,0.767,-5.641,0.166,160.084,0.519
+82,Riot,Lil Skies,166,69,0.853,0.852,-5.063,0.201,98.022,0.832
+83,Havin My Way (feat. Lil Durk),Lil Skies,212,72,0.802,0.737,-4.862,0.0757,127.014,0.712
+84,Tell Me U Luv Me (with Trippie Redd),Juice WRLD,180,33,0.609,0.757,-5.605,0.119,128.022,0.379
+85,Act Up,City Girls,158,73,0.938,0.638,-4.713,0.189,97.075,0.313
+86,WAP (feat. Megan Thee Stallion),Cardi B,188,95,0.935,0.454,-7.509,0.375,133.073,0.357
+87,Shotta Flow 4 (feat. Chief Keef),NLE Choppa,217,33,0.78,0.866,-4.007,0.357,129.958,0.813
+88,Patek,Future,281,75,0.801,0.596,-4.72,0.0534,120.028,0.134
+89,Move Ya Hips (feat. Nicki Minaj & MadeinTYO),A$AP Ferg,146,69,0.809,0.68,-4.883,0.222,143.988,0.0653
+90,Gotta Lotta,2 Chainz,215,57,0.512,0.599,-7.29,0.0831,109.345,0.146
+91,Racks in the Middle (feat. Roddy Ricch and Hit-Boy),Nipsey Hussle,233,69,0.671,0.833,-5.152,0.395,79.351,0.702
+92,Pumpin Blood - Taken by Trees x Belief Remix,NONONO,194,40,0.752,0.741,-6.275,0.0391,129.979,0.742
+93,Drowning,Mick Jenkins,361,49,0.591,0.321,-9.202,0.0814,133.8,0.0795
+94,New Americana,Halsey,184,67,0.339,0.707,-5.121,0.0428,173.993,0.359
+95,BANG BANG,Chief Keef,264,60,0.726,0.747,-3.158,0.162,140.059,0.17
+96,Cereal (feat. Kenny Mason),IDK,199,58,0.669,0.617,-8.011,0.252,128.202,0.613
+97,Vibe (If I Back It Up),Cookiee Kawaii,144,53,0.668,0.684,-8.777,0.0516,160.033,0.205
+98,Don't Care,Rich Brian,165,55,0.642,0.569,-9.38,0.0476,140.095,0.194
+99,Let Me Down Slowly,Alec Benjamin,169,1,0.649,0.548,-5.692,0.0318,150.036,0.506
